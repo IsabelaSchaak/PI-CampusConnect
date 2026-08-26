@@ -47,9 +47,9 @@ A raiz `/` redireciona para `/hashes`. Navegue pelo menu lateral para acessar ca
 |------|--------|-----------|
 | `/Cadastro` | Cadastro de usuários | O sistema permitirá que usuários sejam cadastrados, classificando-os como: usuário comum. |
 | `/Usuário-Login` | Usuáro/login | O sistema permitirá o acesso dos usuários comuns através do login, com e-mail e senha.|
-| `/Atividades de usuario comum` | O usuário poderá navegar pela plataforma, interagir com publicações, enviar registros fotográficos, editar seu perfil e pesquisar conteúdos disponíveis no sistema.|
-| `/Usuarios administradores` | O sistema permitirá a submissão de registros fotográficos das atividades realizadas pelo usuário comum.|
-| `/Regras de negócio` | O sistema deve garantir cadastro único por e-mail, preenchimento dos campos obrigatórios, senha com no mínimo 8 caracteres, pesquisas compatíveis, edição de dados após login e acesso restrito a usuários autenticados. |
+| `/Usuario comum` | O que o usuário comum poderá fazer | O usuário poderá navegar pela plataforma, interagir com publicações, enviar registros fotográficos, editar seu perfil e pesquisar conteúdos disponíveis no sistema.|
+| `/Usuarios administradores` | O que os administradores poderam fazer | O sistema permitirá a submissão de registros fotográficos das atividades realizadas pelo usuário comum.|
+| `/Regras de negócio` | Definir as regras e restrições que garantem a segurança, o correto funcionamento e a integridade das informações no sistema | O sistema deve garantir cadastro único por e-mail, preenchimento dos campos obrigatórios, senha com no mínimo 8 caracteres, pesquisas compatíveis, edição de dados após login e acesso restrito a usuários autenticados. |
  
 ---
  
