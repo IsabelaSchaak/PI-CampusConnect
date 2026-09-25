@@ -1,0 +1,61 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    }
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    background-color: #64B8EB;
+    padding: 15px;
+    }
+
+nav{
+    margin-top: 10px;
+    }
+    
+nav a{
+    color: #000000;
+    margin: 0 12px;
+    padding: 8px 15px;
+    border-radius: 6px;
+    transition: 0.3s;
+    }
+
+nav a:hover{
+    background-color: #A3CDE7;
+    color: #000000;
+        }
+
+.bloco{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 0;
+    overflow: visible;
+    border-radius: 10px;
+    margin-bottom: 0;
+    }
+
+.nome{
+    display: inline-flex;
+    font-size: 14px;
+    letter-spacing: .06em;
+    }
+
+.historia{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px 20px;
+    border-radius: 10px;
+    }
+
+h1{
+    text-align: center;
+    color: #000000;
+    }
