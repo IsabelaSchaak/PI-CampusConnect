@@ -9,7 +9,7 @@ CampusConnect, Projeto Integrador, desenvolvido para conectar e apoiar estudante
 | Tecnologia | Uso |
 |------------|-----|
 | **Html** |interface/frontend |
-| **CSS** | Estilização (tema leve, com cores neutras) |
+| **CSS** | Estilização (tema leve, com cores suaves) |
 | **Java Script** | interatividade das páginas |
 | **MySQL** | backend/banco de dados |
  
